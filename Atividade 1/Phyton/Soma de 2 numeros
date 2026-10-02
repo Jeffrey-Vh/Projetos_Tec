@@ -1,0 +1,4 @@
+a = int(input("Digite seu numero: "))
+b = int(input("Digite seu numero: "))
+c = a + b
+print(f"A soma é {c}")
